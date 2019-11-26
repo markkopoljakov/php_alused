@@ -58,7 +58,7 @@ $riigid = array(
 );
 
 foreach ($riigid as $riik=>$andmed){
-    echo "$riik - ";
+    echo "$riik: ";
     foreach($andmed as $detailid){
         echo "$detailid ";
     }
