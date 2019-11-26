@@ -46,5 +46,4 @@ foreach ($raamatud as $raamat=>$andmed){
 }
 echo "Raamatuid kokku:";
 echo count($raamatud);
-
 ?>
